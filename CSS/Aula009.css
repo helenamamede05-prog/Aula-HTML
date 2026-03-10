@@ -1,0 +1,12 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+h1 {
+    width: 172px;
+    background-color: rgb(62, 182, 62);
+    padding: 10px;
+    border: 4px solid rosybrown;
+    box-sizing: border-box;
+}
