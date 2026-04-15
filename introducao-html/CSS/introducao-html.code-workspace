@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../linktree"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "introducao-html"
+	}
+}

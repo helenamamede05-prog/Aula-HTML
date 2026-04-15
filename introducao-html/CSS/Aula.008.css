@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: rgba(255, 105, 180, 0.452);
+    color: rgb(71, 6, 177);
+    border-radius: 20px;
+    text-align: center;
+}
+
+h2 {
+    text-shadow: 2px 2px 4px rgb(160, 5, 69);
+}
+
+#texto-verde{
+    background-color: green;
+}
+
+p{
+    color: rosybrown;
+}
+
+.rosa { 
+    color: rosybrown;
+}
+.blue {
+    color: blue;                
+}
